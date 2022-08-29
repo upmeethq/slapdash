@@ -1,0 +1,15 @@
+name = "Start UpMeet"
+description = "Quickly open your meeting within seconds."
+endpointURL = ""
+sourceCodeURL = ""
+language = "javascript"
+categories = ["Productivity"]
+
+author.name = "Reece Atkinson"
+author.profileURL = "https://upmeet.me"
+
+readme = """
+This Slapdash command allows you to open your UpMeet meeting room with a couple of keystrokes! 
+For help with the integration please email help@upmeet.me
+For more information go to https://upmeet.me
+"""
